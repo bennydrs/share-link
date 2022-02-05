@@ -5,9 +5,9 @@ const data = [
     image: "img/bdsphoto-image.png",
   },
   {
-    name: "Upcoming Marvel Movies",
-    url: "https://upcoming-marvel-movies.netlify.app",
-    image: "img/upcoming-marvel-movies-image.jpg",
+    name: "Upcoming Marvel",
+    url: "https://upcomingmarvel.netlify.app",
+    image: "img/upcomingmarvel-image.jpg",
   },
   {
     name: "Singkatan Teknologi",
